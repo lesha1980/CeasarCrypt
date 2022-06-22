@@ -1,0 +1,4 @@
+WireGuard has been designed with 
+ease-of-implementation and simplicity in mind. 
+It is meant to be easily implemented in very few lines of code, 
+and easily auditable for security vulnerabilities. 
